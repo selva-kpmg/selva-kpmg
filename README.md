@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Selva
 - 👀 I’m interested in C#, Netcore, React, JavaScript and Python
 - 🌱 I’m currently learning Machine Learning, Web3 and block chain
-- 💞️ I’m looking to collaborate on dApps
+- 💞️ I’m looking to collaborate on DotnetCore, React apps, dApps
 - 📫 How to reach me twitter/selvats
 
 <!---
